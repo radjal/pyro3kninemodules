@@ -1,0 +1,9 @@
+{
+    "name": "knine/orders-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Knine\\OrdersModule\\": "src/"
+        }
+    }
+}

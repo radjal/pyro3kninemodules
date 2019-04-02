@@ -1,0 +1,9 @@
+{
+    "name": "knine/newsletters-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Knine\\NewslettersModule\\": "src/"
+        }
+    }
+}
